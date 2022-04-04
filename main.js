@@ -1,5 +1,3 @@
-alert('hello');
-
 const out = {
     getSuccess(pet){
         if (pet) {
